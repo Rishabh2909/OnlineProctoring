@@ -216,3 +216,4 @@ __pycache__/
 # Ignore other big folders
 *.pyd
 *.dll
+models/yolov3.weights
